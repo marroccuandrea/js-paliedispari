@@ -70,15 +70,15 @@ function sommaNum(numA, numB){
 // 5
 
 let pariDispari = sommaNum (numeroUtente, numPC);
-console.log(`risultato somma = ${pariDispari}`); 
+
 
 if (pariDispari === scegliPariDispari) {
     risultato = "Hai vinto!";
-    console.log(risultato);
+    
 }
 else {
     risultato = "Hai perso!";
-    console.log(risultato);
+    
 
 }
 
