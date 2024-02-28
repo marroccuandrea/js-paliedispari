@@ -16,4 +16,9 @@ Sommiamo i due numeri
 Stabiliamo se la somma dei due numeri è pari o dispari (usando una funzione)
 Dichiariamo chi ha vinto.
 ## Svolgimento
-1. 
+1. Creo un prompt in cui chiedo all'utente di inserire pari o dispari
+2. Creo un prompt in cui chiedo all'utente di inserire un numero da 1 a 5
+3. Genero un numero random (da 1 a 5)
+4. Sommo i due numeri in una funzione e stabilisco se la somma è pari o dispari
+5. Dichiaro chi ha vinto
+6. Stampo il risultato in pagina
